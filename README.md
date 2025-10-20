@@ -28,8 +28,10 @@ The main goal of this repo is to provide an experimental playground for training
 
 1. Create and activate a Python virtual environment (recommended):
 
-	 python3 -m venv .venv
+	 ```
+     python3 -m venv .venv
 	 source .venv/bin/activate
+     ```
 
 2. Install dependencies:
 
